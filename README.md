@@ -1,6 +1,6 @@
 # Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training
 #### Rohan Saha, Abrar Fahim, Alona Fyshe, Alex Murphy 
-## BabyLM Challenge (CoNLL / EMNLP 2024), Miami, Florida
+## BabyLM Challenge (CoNLL / EMNLP 2024)
 
 [Link to Paper](https://arxiv.org/abs/2410.15509)
 
